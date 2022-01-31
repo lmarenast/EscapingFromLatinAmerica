@@ -21,7 +21,7 @@ Introducción a la creación de videojuegos
 ## Criterios
 
 ### Movimiento y obstáculos
-![Alt Text](README files\1.gif)
+![image](https://github.com/lmarenast/EscapingfromLatinAmerica/blob/master/README%20files/1.gif)
 ### Generación automática
 
 ### Coins y puntaje
