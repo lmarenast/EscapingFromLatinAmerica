@@ -2,7 +2,9 @@
 Este es un proyecto para un videojuego en unity, en un estilo similar a subway surfers.
 Primero, queremos aclarar que el proyecto entero no ha sido posible subirlo a Github, salen repetidos errores sin importar que .gitignore usemos, en especial por el tema de peso de algunos archivos, pues usamos algunos modelos 3D, así que por ese lado pedimos disculpas encarecidamente, de todas formas, el proyecto se ha realizado con éxito, en los siguientes enlaces se encuentra el proyecto en Unity y el ejecutable por medio de Google Drive.
 
-[Link del proyecto Unity](https://drive.google.com/drive/folders/110nUKNN_v3eNJsPo3riCrSi_a4PSzFBb?usp=sharing).
+[Link del proyecto Unity](https://drive.google.com/drive/folders/1ehQ3hKd0tMHPgQddr_PMgMjwgPihrd6E?usp=sharing).
+[Link ejecutable](https://drive.google.com/drive/folders/1bozqcBwWdkf2RUDJmlfFkru91npupW7v?usp=sharing).
+
 ## Asignatura
 Introducción a la creación de videojuegos
 
