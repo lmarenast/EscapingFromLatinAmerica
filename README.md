@@ -21,11 +21,27 @@ Introducción a la creación de videojuegos
 ## Criterios
 
 ### Movimiento y obstáculos
-![image](https://github.com/lmarenast/EscapingfromLatinAmerica/blob/master/README%20files/1.gif)
+
+
+https://user-images.githubusercontent.com/61100693/151854035-8beceab7-88d5-495d-8012-bb143cf752c2.mp4
+
+
+
+
 ### Generación automática
+![2](https://user-images.githubusercontent.com/61100693/151854151-b37e0266-7ae3-4fca-8737-d6c6099e14b9.JPG)
 
 ### Coins y puntaje
+https://user-images.githubusercontent.com/61100693/151854389-bddbd991-a09a-471d-8955-fdf88328fdc1.mp4
 
 ### PowerUps
 
+#### Dash
+https://user-images.githubusercontent.com/61100693/151854418-c17f2f5d-9135-44ce-b723-df80be78d0a8.mp4
+
+#### Big jump
+https://user-images.githubusercontent.com/61100693/151854443-42c9ab75-14ce-450e-b390-d2fd5181830f.mp4
+
+
 ### Ranking
+En proceso...
